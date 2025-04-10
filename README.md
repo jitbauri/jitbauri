@@ -10,7 +10,7 @@
 - Completing DSA in C++
 - Building Full Stack Projects
 - Preparing for GSoC (Joomla Weblinks Project)
-- 
+
 ### 🛠️ Tech Stack
 - 💻 Languages: C++, JavaScript, HTML, CSS
 - 🌐 Web: React.js, Node.js, Express.js
@@ -19,4 +19,4 @@
   
   ### 📫 How to reach me: 
   - Email: jitbauri.official@gmail.com
-  - LinkedIn: [Jit Bauri](www.linkedin.com/in/jit-bauri-440332284)
+  - LinkedIn: [Jit Bauri](https://www.linkedin.com/in/jit-bauri-440332284/)
