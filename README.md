@@ -9,7 +9,6 @@
 ### 📅 Currently Working On
 - Completing DSA in C++
 - Building Full Stack Projects
-- Preparing for GSoC (Joomla Weblinks Project)
 
 ### 🛠️ Tech Stack
 - 💻 Languages: C++, JavaScript, HTML, CSS
