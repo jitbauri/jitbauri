@@ -17,5 +17,4 @@
 - ⚙️ Tools: Git, GitHub, VS Code, Postman
   
   ### 📫 How to reach me: 
-  - Email: jitbauri.official@gmail.com
   - LinkedIn: [Jit Bauri](https://www.linkedin.com/in/jit-bauri-440332284/)
